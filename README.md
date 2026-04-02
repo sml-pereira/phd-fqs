@@ -147,7 +147,7 @@ If you use this code or data in your research, please cite:
 ```bibtex
 @phdthesis{author_year,
   author = {Pereira, Samuel},
-  title  = {[Thesis Title]},
+  title  = {The Fourier Qualia Space: Interaction, Ambiguity, and Hierarchy in Music Harmony},
   school = {University of Porto},
   year   = {2026},
   doi    = {https://doi.org/10.5281/zenodo.17988588}
