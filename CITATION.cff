@@ -5,10 +5,10 @@ type: software
 authors:
   - family-names: "Pereira"
     given-names: "Samuel"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-2866-1081"
 repository-code: "https://github.com/sml-pereira/phd-fqs"
 url: "https://github.com/sml-pereira/phd-fqs"
-abstract: "Research software and materials for the PhD project 'fqs'."
+abstract: "Research software and materials for the PhD project 'The Fourier Qualia Space: Interaction, Ambiguity, and Hierarchy in Music Harmony'."
 license: "MIT"
-version: "0.1.0"
+version: "1.0.1"
 date-released: "2026-04-05"
