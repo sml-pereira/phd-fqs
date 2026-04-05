@@ -12,3 +12,12 @@ abstract: "Research software and materials for the PhD project 'The Fourier Qual
 license: "MIT"
 version: "1.0.1"
 date-released: "2026-04-05"
+doi: 10.5281/zenodo.19429566
+keywords:
+  - computational musicology
+  - Fourier transform
+  - pitch-class sets
+  - harmonic qualia
+  - tonality
+  - Debussy
+  - Markov models
