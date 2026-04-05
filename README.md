@@ -17,6 +17,7 @@ phd-thesis-repository/
 │
 ├── README.md                     # This file
 ├── LICENSE                       # MIT licence for code
+├── CITATION.cff                  # Citation info
 ├── LICENSE-DATA                  # CC-BY-4.0 licence for data
 ├── requirements.txt              # Python dependencies
 │
