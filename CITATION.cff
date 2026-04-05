@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "phd-fqs"
+type: software
+authors:
+  - family-names: "Pereira"
+    given-names: "S. M. L."
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/sml-pereira/phd-fqs"
+url: "https://github.com/sml-pereira/phd-fqs"
+abstract: "Research software and materials for the PhD project 'fqs'."
+license: "MIT"
+version: "0.1.0"
+date-released: "2026-04-05"
