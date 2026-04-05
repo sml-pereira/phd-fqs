@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it using the metadata from this file."
-title: "phd-fqs"
+title: "The Fourier Qualia Space PhD Thesis - Supplemental Material"
 type: software
 authors:
   - family-names: "Pereira"
-    given-names: "S. M. L."
+    given-names: "Samuel"
     orcid: "https://orcid.org/0000-0000-0000-0000"
 repository-code: "https://github.com/sml-pereira/phd-fqs"
 url: "https://github.com/sml-pereira/phd-fqs"
