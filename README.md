@@ -66,8 +66,8 @@ phd-thesis-repository/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[username]/phd-thesis-repository.git
-   cd phd-thesis-repository
+   git clone https://github.com/sml-pereira/phd-fqs.git
+   cd phd-fqs
    ```
 
 2. (Recommended) Create a virtual environment:
@@ -145,7 +145,7 @@ The `data/` directory contains pre-computed analysis results in CSV format. See 
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@phdthesis{author_year,
+@phdthesis{pereira_2026,
   author = {Pereira, Samuel},
   title  = {The Fourier Qualia Space: Interaction, Ambiguity, and Hierarchy in Music Harmony},
   school = {University of Porto},
